@@ -1,11 +1,11 @@
-   <h1>Cypress Web Automation Testinf</h1>
+   <h1 align="center">Cypress Web Automation Testinf</h1>
 
 Cypress is a next-generation, JavaScript-based front-end testing tool designed for modern web applications, focusing on fast, easy, and reliable testing. It runs directly in the browser, enabling end-to-end, integration, and component testing with features like automatic waiting, time travel, and real-time debugging.
 
 1. In this time i'm focused on End-to-end testing.
 
 
-<img src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/PallabMistry/Cypress_Web-Automation" alt="GitHub Card" width="500" height="300"/>
+<img align="center"src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/PallabMistry/Cypress_Web-Automation" alt="GitHub Card" width="500" height="300"/>
 
 
 <h2>🧐 Features </h2>
