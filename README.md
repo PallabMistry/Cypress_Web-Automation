@@ -22,11 +22,16 @@ Cypress is a next-generation, JavaScript-based front-end testing tool designed f
 
    Go to the terminal and type-
    `npm init -y`
+   
    Install Cypress- `npm install cypress`
+   
       Check version- `npx cypress -v`
+   
     & verify the project- `npx cypress verify`
+   
 5. Run the project in cypress App.
-     `npx cypress open`
+
+   `npx cypress open`
 
 
 <h2>💻 Built with: </h2>
