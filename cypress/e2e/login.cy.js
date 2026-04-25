@@ -6,8 +6,8 @@ const tc = new LoginPage()
 
         it('login Page automation',() => {
             tc.navigate('https://www.saucedemo.com')
-            tc.enterusername('standard_user1')
-            tc.enteruserpassword('secret_sauce12')
+            tc.enterusername('standard_user')
+            tc.enteruserpassword('secret_sauce')
             tc.clickloginbutton()
         })
     }) 
